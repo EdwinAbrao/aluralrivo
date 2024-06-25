@@ -1,0 +1,11 @@
+:root{
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF
+    --laranja:#E
+    --azul-degrade: liner-gradient (97.54 deg, #002F52 35.49%, #326589 165.375%)}
+
+body{
+    background-color: var( --cor-de-fundo);
+}
+h1{background-color: white
+}
