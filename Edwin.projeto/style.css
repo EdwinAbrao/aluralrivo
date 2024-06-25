@@ -2,7 +2,9 @@
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF
     --laranja:#E
-    --azul-degrade: liner-gradient (97.54 deg, #002F52 35.49%, #326589 165.375%)}
+    --azul-degrade: liner-gradient (97.54 deg, #002F52 35.49%, #326589 165.375%);
+--azul-fonte: #002f52;
+--fonte-principal:"poppins";}
 
 body{
     background-color: var( --cor-de-fundo);
